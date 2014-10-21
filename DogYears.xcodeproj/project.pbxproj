@@ -13,6 +13,7 @@
 		E3F11F3919F6C9E0005A253E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3F11F3819F6C9E0005A253E /* Images.xcassets */; };
 		E3F11F3C19F6C9E0005A253E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3F11F3A19F6C9E0005A253E /* LaunchScreen.xib */; };
 		E3F11F4819F6C9E0005A253E /* DogYearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F11F4719F6C9E0005A253E /* DogYearsTests.swift */; };
+		E3F11F5219F6CA7A005A253E /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3F11F5119F6CA7A005A253E /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		E3F11F4119F6C9E0005A253E /* DogYearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DogYearsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3F11F4619F6C9E0005A253E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3F11F4719F6C9E0005A253E /* DogYearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogYearsTests.swift; sourceTree = "<group>"; };
+		E3F11F5119F6CA7A005A253E /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		E3F11F2F19F6C9E0005A253E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E3F11F5119F6CA7A005A253E /* AgeOfLaika.jpg */,
 				E3F11F3019F6C9E0005A253E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3F11F3719F6C9E0005A253E /* Main.storyboard in Resources */,
+				E3F11F5219F6CA7A005A253E /* AgeOfLaika.jpg in Resources */,
 				E3F11F3C19F6C9E0005A253E /* LaunchScreen.xib in Resources */,
 				E3F11F3919F6C9E0005A253E /* Images.xcassets in Resources */,
 			);
